@@ -1,7 +1,26 @@
+[{
+"id": 1,
+"mnemonic": "0626162727#Home",
+"contactDetails": {
+"firstname": "imad",
+"lastname": "el amraoui",
+"emailAddress": "imad@shipinfy.com",
+"mobileNumber": "0626162727"
+},
+"shippingAddress":" 20 rue de la paix",
+"city": "Paris",
+"district": "Paris 1er"
+},
 {
-  "profiles": [
-    { "id": 1, "name": "john", "age": 21 },
-    { "id": 2, "name": "judy", "age": 31 },
-    { "id": 3, "name": "jack", "age": 41 }
-  ]
-}
+"id": 2,
+"mnemonic": "0662617272#Home",
+"contactDetails": {
+"firstname": "imran",
+"lastname": "khadij",
+"emailAddress": "imran@shipinfy.com",
+"mobileNumber": "0662617272"
+},
+"shippingAddress":" 20 rue de la paix",
+"city": "casa",
+"district": "casa 1er"
+}]
